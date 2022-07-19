@@ -1,0 +1,11 @@
+Full Name,Gender,Age,Profession,Dominant Trait,Preferred Gender,Max Age,Preferred Professional,Preferred Trait,Height\Hair Color
+Omer Gotliv,Male,34,Accountant,Curiosity,Female,40,Engineer,Kindness,180
+Noam Dahan,Male,18,Teacher,Kindness,Female,20,Accountant,Optimism,160
+Ron Ben Simon,Male,65,Accountant,Optimism,Female,68,Teacher,Kindness,210
+Ziv Itshak,Male,48,Engineer,Self_control,Male,52,Engineer,Kindness,175
+Tom Levi,Male,27,Engineer,Kindness,Male,30,Accountant,Kindness,172
+Na'ama Arel,Female,20,Accountant,Curiosity,Male,30,Accountant,Curiosity,black
+Nofar Cohen,Female,28,Engineer,Kindness,Male,36,Accountant,Curiosity,brunet
+Rinat Ashcenazi,Female,50,Lawyer,Optimism,Male,60,Engineer,Self_control,blonde
+Efrat Abargil,Female,35,Lawyer,Gratitude,Female,40,Lawyer,Gratitude,blonde
+Rotem Aharon,Female,27,Teacher,Self_control,Female,35,Lawyer,Gratitude,black
